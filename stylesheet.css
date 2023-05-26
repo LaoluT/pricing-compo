@@ -12,7 +12,7 @@ body{
   background-color: hsl(240, 78%, 98%);
   background-repeat: no-repeat;
   background-position: 190px -40px ;
-  max-width: 375px;
+  max-width: 475px;
   display: flex;
   flex-direction: column;
   margin: auto;
